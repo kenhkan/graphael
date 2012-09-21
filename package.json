@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "Kenneth Kan"
+  },
+  "name": "g.raphael-unaltered",
+  "description": "Unaltered npm package of g.raphael",
+  "version": "0.5.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kenhkan/g.raphael-unaltered.git"
+  },
+  "contributors": [
+    {
+      "name": "Kenneth Kan"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
