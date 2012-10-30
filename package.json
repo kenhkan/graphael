@@ -1,6 +1,6 @@
 {
-  "name": "g.raphael-unaltered",
-  "description": "Unaltered npm package of g.raphael",
+  "name": "g.raphael",
+  "description": "npm package of g.raphael",
   "version": "0.5.1",
   "author": "Kenneth Kan <kenhkan@gmail.com>",
   "dependencies": {},
