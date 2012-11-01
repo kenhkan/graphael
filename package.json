@@ -1,9 +1,11 @@
 {
-  "name": "g.raphael",
+  "name": "g.raphael.js",
   "description": "npm package of g.raphael",
   "version": "0.5.1",
   "author": "Kenneth Kan <kenhkan@gmail.com>",
-  "dependencies": {},
-  "devDependencies": {},
-  "optionalDependencies": {}
+  "homepage": "https://github.com/kenhkan/g.raphael.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenhkan/g.raphael.js.git"
+  }
 }
