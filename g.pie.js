@@ -121,7 +121,7 @@
                 var mangle = angle - 360 * values[i] / total / 2;
 
                 if (!i) {
-                    angle = 90;
+                    angle = -90;
                     mangle = angle - 360 * values[i] / total / 2;
                 }
 
