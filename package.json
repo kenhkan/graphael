@@ -1,5 +1,5 @@
 {
-  "name": "graphael-no-mangle",
+  "name": "graphael-no_mangle",
   "description": "npm package of g.raphael, without mangling",
   "version": "1.1.0",
   "author": "Kenneth Kan <kenhkan@gmail.com>",
