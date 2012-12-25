@@ -4,8 +4,12 @@
   "version": "1.1.0",
   "author": "Kenneth Kan <kenhkan@gmail.com>",
   "homepage": "https://github.com/kenhkan/graphael/tree/no_mangle",
+  "main": "lib/main.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/kenhkan/graphael.git"
+  },
+  "scripts": {
+    "postinstall": "make"
   }
 }
