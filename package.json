@@ -1,7 +1,7 @@
 {
   "name": "graphael",
   "description": "npm package of g.raphael",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "Kenneth Kan <kenhkan@gmail.com>",
   "homepage": "https://github.com/kenhkan/graphael",
   "main": "lib/main.js",
