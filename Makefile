@@ -5,7 +5,7 @@ run:
 	# Copy files useful for individual includes
 	@cp src/lib/* lib/
 	# Concatenate one by one
-	@cat src/lib/raphael-min.js > lib/main.js
+	@cat src/lib/raphael.js > lib/main.js
 	@cat src/lib/g.raphael.js >> lib/main.js
 	@cat src/lib/g.bar.js >> lib/main.js
 	@cat src/lib/g.dot.js >> lib/main.js
